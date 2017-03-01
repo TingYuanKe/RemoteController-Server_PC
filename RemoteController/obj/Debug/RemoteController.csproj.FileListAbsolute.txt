@@ -1,0 +1,23 @@
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\bin\Debug\RemoteController.exe.config
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.csprojResolveAssemblyReference.cache
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.Properties.Resources.resources
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.RemoteController.resources
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.csproj.GenerateResource.Cache
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\bin\Debug\RemoteController.exe
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\bin\Debug\RemoteController.pdb
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.exe
+c:\users\tingyuankeke\documents\visual studio 2015\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.pdb
+C:\Users\TingYuanKeke\Desktop\畢業專題\RemoteController Server\RemoteController\bin\Debug\RemoteController.exe.config
+C:\Users\TingYuanKeke\Desktop\畢業專題\RemoteController Server\RemoteController\obj\Debug\RemoteController.exe
+C:\Users\TingYuanKeke\Desktop\畢業專題\RemoteController Server\RemoteController\obj\Debug\RemoteController.pdb
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\bin\Debug\RemoteController.exe.config
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\obj\Debug\RemoteController.exe
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\obj\Debug\RemoteController.pdb
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\bin\Debug\RemoteController.exe
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\bin\Debug\RemoteController.pdb
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\obj\Debug\RemoteController.csprojResolveAssemblyReference.cache
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\obj\Debug\RemoteController.Properties.Resources.resources
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\obj\Debug\RemoteController.RemoteController.resources
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\obj\Debug\RemoteController.csproj.GenerateResource.Cache
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\bin\Debug\WindowsInput.dll
+C:\Users\TingYuanKeke\Desktop\Final Project\RemoteController Server\RemoteController\bin\Debug\WindowsInput.xml
